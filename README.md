@@ -1,6 +1,6 @@
-# meals
+# Meals (Aplicativo de estudo)
 
-A new Flutter project.
+Este projeto tem como finalidade exlporar e estudar o desenvolvimento mobile com Dart/Flutter
 
 ## Getting Started
 
